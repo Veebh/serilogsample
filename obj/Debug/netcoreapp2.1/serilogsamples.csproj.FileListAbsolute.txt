@@ -1,0 +1,11 @@
+D:\work\serilogsamples\bin\Debug\netcoreapp2.1\serilogsamples.deps.json
+D:\work\serilogsamples\bin\Debug\netcoreapp2.1\serilogsamples.runtimeconfig.json
+D:\work\serilogsamples\bin\Debug\netcoreapp2.1\serilogsamples.runtimeconfig.dev.json
+D:\work\serilogsamples\bin\Debug\netcoreapp2.1\serilogsamples.dll
+D:\work\serilogsamples\obj\Debug\netcoreapp2.1\serilogsamples.csprojAssemblyReference.cache
+D:\work\serilogsamples\obj\Debug\netcoreapp2.1\serilogsamples.csproj.CoreCompileInputs.cache
+D:\work\serilogsamples\obj\Debug\netcoreapp2.1\serilogsamples.AssemblyInfoInputs.cache
+D:\work\serilogsamples\obj\Debug\netcoreapp2.1\serilogsamples.AssemblyInfo.cs
+D:\work\serilogsamples\bin\Debug\netcoreapp2.1\serilogsamples.pdb
+D:\work\serilogsamples\obj\Debug\netcoreapp2.1\serilogsamples.dll
+D:\work\serilogsamples\obj\Debug\netcoreapp2.1\serilogsamples.pdb
